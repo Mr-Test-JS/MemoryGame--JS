@@ -1,14 +1,5 @@
-# Kunskapkontrol3-grupp2
 
-Group: Group 2 - Pink Kittens.  
-Group Members: Mohammad Soliman, Angelica Do, and Tara Hassani are member of this group.  
---------------------------------------------------
-Responsibilities: 
-Mohammad has responsibility for API and gathering all information from the website and made a function in JavaScript.  
-Angelica has responsibility for Design and also cooperate with Tara for making connection between all pages, which every page gets connected to the other page by a button.  
-Tara has responsibility for score part. And also, cooperate with Angelica as mentioned above.   
-We did all the rest with each other. Such as all the card are similar or not similar.
---------------------------------------------------
+
 
 Description : 
 To start the game, the player must:
